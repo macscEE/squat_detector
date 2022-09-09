@@ -1,0 +1,1 @@
+Non aggiornato con i la distinzione fra pin impostati in IDE e i pin fisici dell'attiny85
